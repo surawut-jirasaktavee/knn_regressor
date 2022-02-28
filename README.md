@@ -23,7 +23,7 @@ An intuitive way to handle the scaling problem in KNN regressor is to standardiz
 
 ### Eucidean distance:
 
-![PICTURE](/Users/premsurawut/Github/DataSci_project/Machine_learning/knn/images/eucidean_distance.png)
+![PICTURE](images/eucidean_distance.png)
 
 ### Prediction algorithm:
 ----
@@ -36,11 +36,11 @@ An intuitive way to handle the scaling problem in KNN regressor is to standardiz
 ### Evaluating model performance with MSE & RMSE:
 ----
 
-![PICTURE](/Users/premsurawut/Github/DataSci_project/Machine_learning/knn/images/MSE.png)
+![PICTURE](images/MSE.png)
 
-![PICTURE](/Users/premsurawut/Github/DataSci_project/Machine_learning/knn/images/RMSE.png)
+![PICTURE](images/RMSE.png)
 
-![PICTURE](/Users/premsurawut/Github/DataSci_project/Machine_learning/knn/images/RMSE1.png)
+![PICTURE](images/RMSE1.png)
 
 ## Installation
 ----
