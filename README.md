@@ -10,7 +10,7 @@ IN THIS PROJECT WE WILL PREDICT CAR PRICES WITH A TECHNIQUE CALLED "K-NEAREST NE
 
     - THE DATASET WE WILL BE WORKING WITH CONTAINS INFORMATION ON VARIOUS CARS.
 
-![PICTURE](/Users/premsurawut/Github/DataSci_project/Machine_learning/knn/images/data_description.png)
+![PICTURE](images/data_description.png)
 
 ----
 ## About KNN Regressor
